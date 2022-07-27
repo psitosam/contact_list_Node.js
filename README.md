@@ -12,7 +12,7 @@ Contact List is a technical challenge to build a simple REST API with specific e
 
 
 ## Schema
-- See image below for project database schema:
+- A Contact can have many phones, and a phone belongs to one contact: </br>
 ![contactlistschema](https://user-images.githubusercontent.com/95240894/181355650-b5a80875-950f-42ea-91e3-242eef16687d.png)
 
 
