@@ -13,7 +13,7 @@ Contact List is a technical challenge to build a simple REST API with specific e
 
 ## Schema
 - See image below for project database schema:
-![contactlistschema](https://user-images.githubusercontent.com/95240894/181355139-81193712-2d89-4cb1-b324-36fefd8f3dbc.png)
+![contactlistschema](https://user-images.githubusercontent.com/95240894/181355650-b5a80875-950f-42ea-91e3-242eef16687d.png)
 
 
 ## Technology Used:
