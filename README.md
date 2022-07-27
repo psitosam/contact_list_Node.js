@@ -6,15 +6,15 @@ Contact List is a technical challenge to build a simple REST API with specific e
 
 ## Goals:
 - Practice building API endpoints to expose limited data.
-- Utilize namespacing routing techniques to organize functionality.
-- Use serializers to format JSON responses.
-- Utilize ActiveRecord and some raw SQL to gather data.
+- Learn fundamentals of JavaScript by using Node and Express packages.
+- Compartmentalize logic and adhere to the principles of Object Oriented Programming.
+- Use MongoDB to make a custom query in order to generate a call list of contacts with a home phone number listed.
 
 
 ## Schema
 - See image below for project database schema:
 
-[ContactsListSchema.pdf](https://github.com/psitosam/contact_list/files/8781870/ContactsListSchema.pdf)
+
 
 ## Technology Used:
 </br>
