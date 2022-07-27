@@ -13,7 +13,7 @@ Contact List is a technical challenge to build a simple REST API with specific e
 
 ## Schema
 - See image below for project database schema:
-![contactlistschema.pdf](https://github.com/psitosam/contact_list_Node.js/files/9202954/contactlistschema.pdf)
+
 
 
 ## Technology Used:
